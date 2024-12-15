@@ -23,7 +23,6 @@ I am a passionate and results-driven *Full-Stack Web Developer* with a strong fo
 
 ### *Frontend Development*  
 - HTML, CSS, Javascript, Typescript, Angular, React, RxJS, SASS.
-- 
 ### *Backend Development*  
 - RESTful API, Entity Framework, Authentication & Authorization (JWT, .NET Identity), Redis, Lazy Loading.
 
