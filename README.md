@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1500&color=2D5BE3&center=true&width=480&lines=Full+Stack+Developer+•+Web+%26+Mobile;Next.js+•+React+Native+•+ASP.NET+Core;Clean+Code+•+Scalable+Systems+•+Real+Results" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1500&color=2D5BE3&center=true&width=480&lines=Full+Stack+Engineer+•+Web+%26+Mobile;Next.js+•+React+Native+•+ASP.NET+Core;Clean+Code+•+Scalable+Systems" />
 </p>
 
 
