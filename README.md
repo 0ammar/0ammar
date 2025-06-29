@@ -5,9 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/0ammar">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1500&color=2D5BE3&center=true&width=435&lines=Mobile+App+Developer+🚀;Web+Solutions+Engineer+🌐;Clean+%26+Scalable+Code+Advocate+💻" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1500&color=2D5BE3&center=true&width=435&lines=Building+Real+Apps+with+Clean+Code;Web+%26+Mobile+Developer;Focused+on+Scalable+Solutions" />
 </p>
 
 
