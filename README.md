@@ -47,7 +47,6 @@
   <img src="https://skillicons.dev/icons?i=figma" height="50"/>
 </div>
 
-
 <br><br>
 
 <p align="center">
